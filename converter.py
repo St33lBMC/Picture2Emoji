@@ -1,3 +1,10 @@
+'''
+converts a pixel matrix into a string of discord emojis
+Uses a predefined set of emojis, for better color matching check out https://github.com/Exopteron 's version
+(if he ever uploads it), as he used the full emoji set
+'''
+
+
 class Converter:
 
     symbols = {

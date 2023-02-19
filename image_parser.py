@@ -1,3 +1,7 @@
+'''
+Parses the image to generate a pixel array. Couldn't be asked to do this myself, so I used a library.
+'''
+
 from PIL import Image
 import numpy as np
 

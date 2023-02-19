@@ -1,3 +1,7 @@
+'''
+Takes in an image file and spits out a low-res string of discord emojis that should (hopefully) resemble the image
+'''
+
 import sys
 from converter import Converter
 from image_parser import Parser
